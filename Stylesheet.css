@@ -1,0 +1,172 @@
+body
+{
+	background-color:#ADFAE1;
+	font-family:"Homer Simpson", Times;
+}
+#contenido
+{
+	width:960px;
+	margin:0 auto;
+	text-align:center;
+	color:#1D1D1D;
+}
+h1
+{
+	color:#0000FF;
+	font-weight: bold;
+	font-size: 20px;
+}
+p2
+{
+  color:#025206;
+  font-size: 20px;
+  font-weight: bold;
+}
+nav	ul	li	
+{
+	display:inline-block;
+	margin-right:20px;
+	color:#138908;
+	cursor:pointer;
+	padding:5px;
+
+	transition:all 0.5s linear;
+	-webkit-transition:all 0.5s linear;
+	-moz-transition:all 0.5s linear;
+	-o-transition:all 0.5s linear;
+}
+nav ul li:hover 
+{
+	background-color:#138908;
+	color:#138908;
+	border-radius: 5px;
+}	
+#Texto
+{
+	width:1000px;
+	height:505px;
+	“background-color: rgba(0,0,255,0.5);”
+	color:#000000;
+	margin:0 auto;
+	text-align:left;
+	border-radius:20px;
+	padding:20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+}
+footer
+{
+	color:#A7AE43;
+	bottom:0px;
+	font-size: 20px;
+	font-weight: bolder;
+	background-color: #1d1d1d;
+	border-radius:10px;
+	bottom: 0px;
+}	
+meter
+{
+	background-color:#FFF;
+	padding:5px;
+	border-radius:5px;
+	color:#e44e2d;
+	margin:5px;
+	width:500px;
+	font-weight: 15px;
+}
+label
+{
+	display: block;
+	color: #e44e2d;
+	font-weight: bolder;
+	font-size: 20px;
+
+}
+#btnSubmit
+{
+	border:none;
+	background-color:#e44e2d;
+	color:#FFF;
+	padding:4px;
+	margin: 20px;
+	cursor:pointer; 
+}
+#calificacion
+{
+	width:150px;
+	-webkit-appearance:none;
+	background-color:#FFF;
+	height: 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+#calificacion::-webkit-slider-thumb
+{
+	-webkit-appearance:none;
+	background-color:#e44e2d;
+	border-radius:10px;
+	height:15px;
+	width:10px;
+}
+p
+{
+	color: #800000;
+	font-size: 15px;
+	font-weight: bolder;
+
+}
+p3
+{
+	color:#880611;
+	font-size:28px;
+}
+label input 
+{
+	color: #880611;
+	font-weight: bold;
+	font-size: 20px;
+}
+marquee
+{
+	color:#880611;
+	font-weight: bolder;
+}
+ul li a
+{
+	font-weight: bold;
+	color:#D16517;
+}
+body
+{
+	background-image: url(https://content.nike.com/content/dam/one-nike/en_lu/HO16/Running/Landing_Page/P1s/0112_RU_SLP_WOMEN_DT_P1_NIKE-ZONAL-STRENGTH-RUNNING-TIGHTS.jpg.transform/full-screen/0112_RU_SLP_WOMEN_DT_P1_NIKE-ZONAL-STRENGTH-RUNNING-TIGHTS.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px;
+	background-position: 0px 95px;
+}	
+img
+{
+	border-radius: 5px;
+	margin-right: 50px;
+}
+h
+{
+	color: #8C8C8C;
+	font-weight: bold;
+	font-size: 60px;
+}
+h3
+{
+	color: #06EA32;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+p a
+{
+	font-weight: bold;
+	color:#00F41E;
+	font-size: 25px;
+	background-color: #1d1d1d;
+	border-radius: 5px;
+	padding: 5px;
+
+} 

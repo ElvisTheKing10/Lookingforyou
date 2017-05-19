@@ -1,0 +1,23 @@
+marquee
+{
+	color:#9C0303;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #F4F4F4;
+}
+h1
+{
+		color:#001F93;
+		font-size: 80px;
+}
+li a
+{
+		color: #1d1d1d;
+		font-size: 30px;
+		font-weight: bold;
+}  
+body
+{
+	background-color: #00F4AA;
+	font-family: monospace;
+}
